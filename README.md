@@ -6,7 +6,8 @@ This is a lead enrichment tool that:
 5. Exportable excel report
 
 Setup :
-1. Clone Repository
+1. Clone Repository (git clone https://github.com/Alfredo2212/Web_Scrapping.git
+   cd Web_Scrapping)
 >> on your TERMINAL, it is best to create new environment to avoid version crash
 2. conda create -n streamlit_env python=3.10
 3. conda activate streamlit_env
