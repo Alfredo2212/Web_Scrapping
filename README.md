@@ -7,7 +7,7 @@ This is a lead enrichment tool that:
 
 Setup :
 1. Clone Repository
->> on your TERMINAL, it is best to create new environment to avoid version crash <<
+>> on your TERMINAL, it is best to create new environment to avoid version crash
 2. conda create -n streamlit_env python=3.10
 3. conda activate streamlit_env
 4. Install required dependencies
